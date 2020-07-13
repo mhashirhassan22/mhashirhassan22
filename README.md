@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 I am a software engineer experienced in project management, web development, and programming.
+💬 I am a task oriented, inquisitive, and adaptive person with zest to share ideas and engage in development projects. I am a freelancer on UpWork and love coding, reading books, articles, and watching documentaries.
 
 ⚡ Skilled in Java, JavaScript, C/C++, SQL, Python. 
 

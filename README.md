@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 I am a software engineer experienced in project management, web development, and programming.
+
+⚡ Skilled in Java, JavaScript, C/C++, SQL, Python. 
+
 <!--
 **mhashirhassan22/mhashirhassan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

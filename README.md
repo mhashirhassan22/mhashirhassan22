@@ -1,6 +1,4 @@
-### Hi there 👋
-
-💬 I am a task oriented, inquisitive, and adaptive person with zest to share ideas and engage in development projects. 
+I am a task oriented, inquisitive, and adaptive person with zest to share ideas and engage in development projects. 
 
 ## Achievments:
 

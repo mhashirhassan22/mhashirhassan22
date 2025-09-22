@@ -4,7 +4,6 @@ I am a task oriented, inquisitive, and adaptive person with zest to share ideas 
 
 - Top Rated Plus on Upwork with 100% JSS and top 4 in ranking 🇦🇪
 - Sold 1x SaaS. Cooking another 🚀
-- Awarded 🏆  Emerging CEO Of The Year 2023
 
 ## Skills:
 - Certified Project Manager (Agile)

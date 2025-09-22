@@ -7,12 +7,12 @@ I am a task oriented, inquisitive, and adaptive person with zest to share ideas 
 
 ## Skills:
 - Certified Project Manager (Agile)
-- 6+ Years of experience in full stack development (hands-on 🙌 )
+- 7+ Years of experience in full stack development (hands-on 🙌 )
 - Python (Django, Flask, FastAPI), Javascript (React, Vue)
 
 ## Contact:
 - [My Linkedin](https://www.linkedin.com/in/abouthashir/)
-- [Portfolio](https://www.devswall.com/portfolio/hashir)
+- [Portfolio](https://www.imhashir.com/)
 
 
 <!--
